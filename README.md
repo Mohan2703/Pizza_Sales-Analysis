@@ -1,7 +1,5 @@
-# Pizza-Sales-analysis
-Analysis using SQL
+# Pizza-Sales-Analysis using SQL
 
-## View Detailed Report 👇
-[Analysis_Report](https://www.canva.com/design/DAGdl3TD7YU/UKjBqbEULlC3yKjvPdLvlg/view?utm_content=DAGdl3TD7YU&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+## To View Detailed Report *click*👇 
 
-[![Canva Design](images/canva-design.png)](https://www.canva.com/design/DAGdl3TD7YU/UKjBqbEULlC3yKjvPdLvlg/view?utm_content=DAGdl3TD7YU&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+# [<img src="canva.png" alt="Analysis_report" width="500" height="300">](https://www.canva.com/design/DAGdl3TD7YU/UKjBqbEULlC3yKjvPdLvlg/view?utm_content=DAGdl3TD7YU&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
